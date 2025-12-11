@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/title screen.unity
+    guid: 2770f6eccf8197542b47307e67f0352b
+  - enabled: 1
+    path: Assets/Scenes/sky trails.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/game over.unity
+    guid: 1a64fd03a37e9ed4e8bdd600f89a2afd
+  - enabled: 1
+    path: Assets/Scenes/trade.unity
+    guid: 0560f1aa4e8545a48ba97867ec50f663
+  - enabled: 1
+    path: Assets/Scenes/cutscenes.unity
+    guid: 7e862339c00ba6249a5b1f965b40d042
+  - enabled: 1
+    path: Assets/Scenes/tutorial.unity
+    guid: 28191c0e34beba244a73c9806e705e46
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
